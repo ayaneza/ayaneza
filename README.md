@@ -15,9 +15,11 @@
   <a href="https://github.com/ayaneza/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=ayaneza.ayaneza"></a>
 </p>
 
-- 👨‍💻 Como **Analista de Datos**, me dedico a extraer valor de los conjuntos de datos para informar decisiones estratégicas. Estoy siempre explorando nuevas tecnologías y metodologías en el campo de la ciencia de datos. Cuento también con conocimientos en programación que potencian mi capacidad de análisis.
-- 💬 Pregúntame sobre mi experiencia con el Análisis Exploratorio de Datos (EDA), la Visualización de Datos y la manipulación de datos con SQL y Python.
-- 🌱 Actualmente estoy profundizando en **modelos predictivos** y **herramientas de Big Data**.
+- 👨‍💻 Como **Analista de Datos**, me dedico a extraer valor de los conjuntos de datos para informar decisiones estratégicas, con sólida experiencia en la **automatización de reportes, optimización de consultas SQL y generación de KPIs**.
+- 💡 Manejo procesos **ETL** (Extracción, Transformación y Carga) utilizando **SQL Server, Excel avanzado y Power Query**, transformando datos de diversas fuentes en **dashboards con visualizaciones dinámicas** que impulsan la toma de decisiones.
+- 💻 Cuento también con conocimientos en **programación (Python, Java)** que potencian mi capacidad de análisis y desarrollo de soluciones.
+- 💬 Pregúntame sobre mi experiencia con el **Análisis Exploratorio de Datos (EDA)**, la **Visualización de Datos** y la **manipulación de datos con SQL y Python**.
+- 🌱 Actualmente estoy profundizando en **modelos predictivos** y **herramientas de Big Data**, buscando continuamente aplicar soluciones innovadoras que generen valor al negocio.
 
 ## 🛠 &nbsp;Mi Stack de Herramientas
 
