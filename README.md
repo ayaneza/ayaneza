@@ -2,6 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient">
 </div>
 
+<div>
+  <div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="arturo-yañez" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pe.linkedin.com/in/arturo-ya%C3%B1ez?trk=profile-badge">Arturo Yañez Ayala</a></div>
+              
+</div>
+
 <h3 align="center">
   ¡Hola! Soy Arturo Yañez
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
