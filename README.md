@@ -1,11 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient">
 </div>
-<div align="center">
-  <a href="https://pe.linkedin.com/in/arturo-ya%C3%B1ez" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge">
-  </a>
-</div>
               
 </div>
 
@@ -85,5 +80,5 @@
 
 <div align="center">
 <a href="mailto:ayanezayal@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/arturo-yañez"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://pe.linkedin.com/in/arturo-ya%C3%B1ez" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"></a>
 </div>
