@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient">
 </div>
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div>
   <div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="arturo-yañez" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pe.linkedin.com/in/arturo-ya%C3%B1ez?trk=profile-badge">Arturo Yañez Ayala</a></div>
               
