@@ -1,8 +1,3 @@
-<div>
-  <!-- Insert this tInserta esta etiquera donde te gustaría renderizar el widget -->
-<img <iframe width="640" height="640" src="https://cybermap.kaspersky.com/es/widget/dynamic/dark" frameborder="0">
-  
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient">
